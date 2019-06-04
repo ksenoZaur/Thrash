@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<!--<?import javafx.scene.canvas.Canvas?>-->
+<!--<?import javafx.scene.control.Button?>-->
+<!--<?import javafx.scene.layout.HBox?>-->
+<!--<?import javafx.scene.layout.VBox?>-->
+<!--<?import javafx.scene.text.Font?>-->
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onKeyPressed="#keyPressedAction" prefHeight="700.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" style="-fx-background-color: #666666;">
+         <children>
+            <Button fx:id="newTrashButton" mnemonicParsing="false" onAction="#newTrashAction" prefHeight="78.0" prefWidth="96.0" text="Завести мусор" textAlignment="CENTER" wrapText="true">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Button>
+            <Text fx:id="powerText" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+               <font>
+                  <Font name="System Bold" size="31.0" />
+               </font>
+               <fill>
+                  <LinearGradient endX="1.0" endY="1.0" startX="0.6476190476190476" startY="0.36666666666666664">
+                     <stops>
+                        <Stop color="#0fa7d9" />
+                        <Stop color="WHITE" offset="1.0" />
+                     </stops>
+                  </LinearGradient>
+               </fill>
+               <HBox.margin>
+                  <Insets left="20.0" />
+               </HBox.margin>
+            </Text>
+         </children></HBox>
+      <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Canvas fx:id="middlePart" height="350.0" width="999.0" />
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" style="-fx-background-color: #666666;">
+                     <children>
+                        <Button fx:id="recyclingButton" mnemonicParsing="false" onAction="#recyclingAction" prefHeight="25.0" prefWidth="191.0" text="Отправить на переработку" textAlignment="CENTER" wrapText="true" />
+                        <Button fx:id="goToBurnButton" mnemonicParsing="false" onAction="#goToBurnAction" prefHeight="25.0" prefWidth="194.0" text="Отправить в печь" textAlignment="CENTER" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" style="-fx-background-color: #A3A3A3;">
+         <children>
+            <Button fx:id="decShrButton" mnemonicParsing="false" onAction="#decorShredAction" prefHeight="100.0" prefWidth="135.0" text="Декоррировать конвейер шрейдером" textAlignment="CENTER" wrapText="true" />
+            <Button fx:id="decSortButton" mnemonicParsing="false" onAction="#decorSortAction" prefHeight="100.0" prefWidth="120.0" text="Декоррировать конвейер сортировкой" textAlignment="CENTER" wrapText="true" />
+            <Button fx:id="clearDecorButton" mnemonicParsing="false" onAction="#clearDecorAction" prefHeight="100.0" prefWidth="119.0" text="Очистить" />
+            <Button fx:id="weighButton" mnemonicParsing="false" onAction="#weighAction" prefHeight="100.0" prefWidth="119.0" text="Взвесить(Консоль)" />
+            <Button fx:id="buttonFaсade" disable="false" mnemonicParsing="false" onAction="#facadeButtonAction" prefHeight="100.0" prefWidth="119.0" text="Сменить тип транспортировки" textAlignment="CENTER" wrapText="true" />
+            <Button fx:id="buttonSave" mnemonicParsing="false" onAction="#actionButtonSave" prefHeight="100.0" prefWidth="119.0" text="Сохранить" />
+            <Button fx:id="buttonRestore" mnemonicParsing="false" onAction="#actionButtonRestore" prefHeight="100.0" prefWidth="119.0" text="Восстановить" />
+            <Button fx:id="buttonGarbageDisposal" mnemonicParsing="false" onAction="#actionGarbageDisposal" prefHeight="99.0" prefWidth="149.0" text="Чистка мусора" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Canvas fx:id="placeOne" height="128.0" width="135.0" />
+            <Canvas fx:id="placeTwo" height="128.0" width="135.0" />
+            <Canvas fx:id="placeThree" height="128.0" width="135.0" />
+            <Canvas fx:id="placeFour" height="128.0" width="135.0" />
+            <Button fx:id="allSellButton" disable="true" mnemonicParsing="false" onAction="#allSellAction" prefHeight="128.0" prefWidth="128.0" text="Продать" />
+            <TextArea fx:id="textWindow" editable="false" prefHeight="128.0" prefWidth="332.0" wrapText="true" />
+         </children>
+      </HBox>
+   </children>
+</VBox>

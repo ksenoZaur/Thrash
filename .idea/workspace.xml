@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7616">
+              <caret line="798" column="35" selection-start-line="798" selection-start-column="16" selection-end-line="798" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#Conveyor#0" />
+                <element signature="class#ConveyorLine#0" />
+                <element signature="class#DecoratorConveyor#0" />
+                <element signature="class#Shredder#0" />
+                <element signature="class#Sorting#0" />
+                <element signature="class#EpoxyPlastic#0" />
+                <element signature="method#EpoxyPlastic#0;class#EpoxyPlastic#0" />
+                <element signature="method#clear#0;class#EpoxyPlastic#0" />
+                <element signature="class#AdapterEpoxyPlastic#0" />
+                <element signature="class#ITrash#0" />
+                <element signature="class#HeapOfTrash#0" />
+                <element signature="method#getVolumeOfEnergy#0;class#HeapOfTrash#0" />
+                <element signature="method#getWeight#0;class#HeapOfTrash#0" />
+                <element signature="class#IAggregate#0" />
+                <element signature="class#IIterator#0" />
+                <element signature="class#IteratorHeapTrash#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/LAB_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#ISendForRecycling#0" />
+                <element signature="class#ISendToBoilerRoom#0" />
+                <element signature="method#Boiler#0;class#Boiler#0" />
+                <element signature="class#ProtectedProxyBoiler#0" />
+                <element signature="method#burn#0;class#ProtectedProxyBoiler#0" />
+                <element signature="method#setPower#0;class#ProtectedProxyBoiler#0" />
+                <element signature="class#RecyclableMaterials#0" />
+                <element signature="method#getCoord#0;class#RecyclableMaterials#0" />
+                <element signature="method#getImage#0;class#RecyclableMaterials#0" />
+                <element signature="method#sayType#0;class#RecyclableMaterials#0" />
+                <element signature="method#RecyclableMaterials#0;class#RecyclableMaterials#0" />
+                <element signature="method#moveLeft#0;class#RecyclableMaterials#0" />
+                <element signature="method#moveRight#0;class#RecyclableMaterials#0" />
+                <element signature="class#Glass#0" />
+                <element signature="method#Glass#0;class#Glass#0" />
+                <element signature="method#clear#0;class#Glass#0" />
+                <element signature="class#Paper#0" />
+                <element signature="method#Paper#0;class#Paper#0" />
+                <element signature="method#clear#0;class#Paper#0" />
+                <element signature="class#PolyesterPlastic#0" />
+                <element signature="method#clear#0;class#PolyesterPlastic#0" />
+                <element signature="class#Organic#0" />
+                <element signature="method#Organic#0;class#Organic#0" />
+                <element signature="method#clear#0;class#Organic#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="67" column="91" selection-start-line="67" selection-start-column="91" selection-end-line="67" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/LAB_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="209" column="10" selection-start-line="209" selection-start-column="10" selection-end-line="209" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#RepeatablePart#0" />
+                <element signature="class#FactoryRepeatablePart#0" />
+                <element signature="class#FacadeFactory#0" />
+                <element signature="method#changeBoiler#0;class#FacadeFactory#0" />
+                <element signature="class#Engine#0" />
+                <element signature="class#EngineLine#0" />
+                <element signature="class#EngineSin#0" />
+                <element signature="method#nextLeft#0;class#EngineSin#0" />
+                <element signature="class#EngineLine2#0" />
+                <element signature="method#nextRight#0;class#EngineLine2#0" />
+                <element signature="method#nextLeft#0;class#EngineLine2#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/LAB_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1972">
+              <caret line="281" column="52" selection-start-line="281" selection-start-column="52" selection-end-line="281" selection-end-column="52" />
+              <folding>
+                <element signature="class#Product#0" />
+                <element signature="class#PaperProduct#0" />
+                <element signature="class#GlassProduct#0" />
+                <element signature="class#PlasticProduct#0" />
+                <element signature="class#PaperBottle#0" />
+                <element signature="class#GlassBottle#0" />
+                <element signature="class#PlasticBottle#0" />
+                <element signature="class#PaperBox#0" />
+                <element signature="class#GlassBox#0" />
+                <element signature="class#PlasticBox#0" />
+                <element signature="class#FactoryBottle#0" />
+                <element signature="class#FactoryBox#0" />
+                <element signature="method#Storehouse#0;class#Storehouse#0" />
+                <element signature="method#isFull#0;class#Storehouse#0" />
+                <element signature="method#sellAll#0;class#Storehouse#0" />
+                <element signature="method#restore#0;class#Storehouse#0" />
+                <element signature="class#ConvectionOven#0" />
+                <element signature="method#ConvectionOven#0;class#ConvectionOven#0" />
+                <element signature="method#burn#0;class#ConvectionOven#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/LAB_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="121" selection-start-line="121" selection-end-line="121" />
+              <folding>
+                <element signature="class#ObjectPool#0" />
+                <element signature="method#ObjectPool#0;class#ObjectPool#0" />
+                <element signature="method#acquireMaterial#0;class#ObjectPool#0" />
+                <element signature="method#getInstance#0;class#ObjectPool#0" />
+                <element signature="class#Builder#0" />
+                <element signature="class#ComunityBuilder#0" />
+                <element signature="class#LuxuryBuilder#0" />
+                <element signature="method#construct#0;class#Director#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/LAB_7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#Memento#0" />
+                <element signature="method#Memento#0;class#Memento#0" />
+                <element signature="class#StateStorehouse#0" />
+                <element signature="class#StateNotFullStorehouse#0" />
+                <element signature="method#add#0;class#StateFullStorehouse#0" />
+                <element signature="method#sellAll#0;class#StateFullStorehouse#0" />
+                <element signature="class#StateExtraFullStorehouse#0" />
+                <element signature="method#add#0;class#StateExtraFullStorehouse#0" />
+                <element signature="method#sellAll#0;class#StateExtraFullStorehouse#0" />
+                <element signature="class#Observer#0" />
+                <element signature="class#Publisher#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getNextCoord</find>
+      <find>nextRight</find>
+      <find>acquireMaterial</find>
+      <find>storehouse</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>nextRight</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LAB_4.java" />
+        <option value="$PROJECT_DIR$/src/sample/LAB_6.java" />
+        <option value="$PROJECT_DIR$/src/sample/LAB_4.java" />
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/LAB_2.java" />
+        <option value="$PROJECT_DIR$/src/sample/LAB_5.java" />
+        <option value="$PROJECT_DIR$/src/sample/Purse.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/LAB_7.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LAB_3_PAT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB_3_PAT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAB_3_PAT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB_3_PAT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAB_3_PAT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB_3_PAT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Calculate Metrics&#9;ACTION&#9;Metrics.ProjectMetricsAction" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543126041910" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="recentsLimit" value="5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="LAB_3_PAT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.EpoxyPlastic" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1539582124815" duration="601000" />
+      <workItem from="1539760854833" duration="117000" />
+      <workItem from="1539763878543" duration="668000" />
+      <workItem from="1540096322295" duration="3340000" />
+      <workItem from="1540104784649" duration="6201000" />
+      <workItem from="1541012095437" duration="149000" />
+      <workItem from="1542266225668" duration="227000" />
+      <workItem from="1542274479139" duration="929000" />
+      <workItem from="1542476667159" duration="42000" />
+      <workItem from="1559393759579" duration="2584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16160000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5671406" visible="true" weight="0.17549168" />
+      <window_info id="Structure" order="1" sideWeight="0.4328594" side_tool="true" weight="0.16178624" />
+      <window_info id="Designer" order="2" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Tool Output" />
+      <window_info anchor="bottom" id="PVS-Studio" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ANTLR Preview" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32543445" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6244509" weight="0.16530278" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6734993" weight="0.42338073" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.37554905" side_tool="true" weight="0.20537125" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4956076" weight="0.32543445" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Dependency Viewer" order="17" sideWeight="0.49924356" visible="true" weight="0.3584288" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="18" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Metrics" order="19" visible="true" weight="0.36006546" />
+      <window_info anchor="bottom" id="SonarQube" order="20" weight="0.45008183" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="JetGradle" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5688776" visible="true" weight="0.16178624" />
+      <window_info id="Structure" order="1" sideWeight="0.43112245" side_tool="true" weight="0.23373677" />
+      <window_info id="Designer" order="2" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32569557" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6244509" visible="true" weight="0.20537125" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6734993" weight="0.24960506" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.37554905" side_tool="true" visible="true" weight="0.20537125" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4956076" weight="0.32543445" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Dependency Viewer" order="17" sideWeight="0.49924356" visible="true" weight="0.3584288" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="18" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Metrics" order="19" visible="true" weight="0.36006546" />
+      <window_info anchor="bottom" id="SonarQube" order="20" weight="0.45008183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="JetGradle" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>756</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>625</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/LAB_2.java</url>
+          <line>146</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/LAB_5.java</url>
+          <line>323</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>203</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/LAB_4.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/LAB_2.java</url>
+          <line>160</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/LAB_2.java</url>
+          <line>165</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/LAB_6.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>465</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>492</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Purse.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/LAB_5.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
+          <line>794</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Lab2_Pattern/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/javafx.graphics/javafx/scene/canvas/Canvas.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/javafx.fxml/javafx/fxml/FXMLLoader.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/javafx.base/javafx/event/Event.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/javafx.base/javafx/event/ActionEvent.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/com/sun/javafx/text/PrismTextLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="755" selection-start-line="755" selection-end-line="755" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="439" selection-start-line="439" selection-end-line="439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="80" column="15" lean-forward="true" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="843" selection-start-line="843" selection-end-line="843" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/com/sun/glass/ui/win/WinApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/com/sun/glass/ui/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="555" selection-start-line="555" selection-end-line="555" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/com/sun/javafx/tk/quantum/GlassViewEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="432" selection-start-line="432" selection-end-line="432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/com/sun/javafx/tk/quantum/QuantumToolkit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="388" selection-start-line="388" selection-end-line="388" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3714">
+          <caret line="1710" column="43" lean-forward="true" selection-start-line="1710" selection-start-column="43" selection-end-line="1710" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.fxml/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="2536" selection-start-line="2536" selection-end-line="2536" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7616">
+          <caret line="798" column="35" selection-start-line="798" selection-start-column="16" selection-end-line="798" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Conveyor#0" />
+            <element signature="class#ConveyorLine#0" />
+            <element signature="class#DecoratorConveyor#0" />
+            <element signature="class#Shredder#0" />
+            <element signature="class#Sorting#0" />
+            <element signature="class#EpoxyPlastic#0" />
+            <element signature="method#EpoxyPlastic#0;class#EpoxyPlastic#0" />
+            <element signature="method#clear#0;class#EpoxyPlastic#0" />
+            <element signature="class#AdapterEpoxyPlastic#0" />
+            <element signature="class#ITrash#0" />
+            <element signature="class#HeapOfTrash#0" />
+            <element signature="method#getVolumeOfEnergy#0;class#HeapOfTrash#0" />
+            <element signature="method#getWeight#0;class#HeapOfTrash#0" />
+            <element signature="class#IAggregate#0" />
+            <element signature="class#IIterator#0" />
+            <element signature="class#IteratorHeapTrash#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24837">
+          <caret line="1806" selection-start-line="1806" selection-end-line="1806" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/LAB_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#ISendForRecycling#0" />
+            <element signature="class#ISendToBoilerRoom#0" />
+            <element signature="method#Boiler#0;class#Boiler#0" />
+            <element signature="class#ProtectedProxyBoiler#0" />
+            <element signature="method#burn#0;class#ProtectedProxyBoiler#0" />
+            <element signature="method#setPower#0;class#ProtectedProxyBoiler#0" />
+            <element signature="class#RecyclableMaterials#0" />
+            <element signature="method#getCoord#0;class#RecyclableMaterials#0" />
+            <element signature="method#getImage#0;class#RecyclableMaterials#0" />
+            <element signature="method#sayType#0;class#RecyclableMaterials#0" />
+            <element signature="method#RecyclableMaterials#0;class#RecyclableMaterials#0" />
+            <element signature="method#moveLeft#0;class#RecyclableMaterials#0" />
+            <element signature="method#moveRight#0;class#RecyclableMaterials#0" />
+            <element signature="class#Glass#0" />
+            <element signature="method#Glass#0;class#Glass#0" />
+            <element signature="method#clear#0;class#Glass#0" />
+            <element signature="class#Paper#0" />
+            <element signature="method#Paper#0;class#Paper#0" />
+            <element signature="method#clear#0;class#Paper#0" />
+            <element signature="class#PolyesterPlastic#0" />
+            <element signature="method#clear#0;class#PolyesterPlastic#0" />
+            <element signature="class#Organic#0" />
+            <element signature="method#Organic#0;class#Organic#0" />
+            <element signature="method#clear#0;class#Organic#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="91" selection-start-line="67" selection-start-column="91" selection-end-line="67" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/LAB_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="209" column="10" selection-start-line="209" selection-start-column="10" selection-end-line="209" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#RepeatablePart#0" />
+            <element signature="class#FactoryRepeatablePart#0" />
+            <element signature="class#FacadeFactory#0" />
+            <element signature="method#changeBoiler#0;class#FacadeFactory#0" />
+            <element signature="class#Engine#0" />
+            <element signature="class#EngineLine#0" />
+            <element signature="class#EngineSin#0" />
+            <element signature="method#nextLeft#0;class#EngineSin#0" />
+            <element signature="class#EngineLine2#0" />
+            <element signature="method#nextRight#0;class#EngineLine2#0" />
+            <element signature="method#nextLeft#0;class#EngineLine2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/LAB_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="281" column="52" selection-start-line="281" selection-start-column="52" selection-end-line="281" selection-end-column="52" />
+          <folding>
+            <element signature="class#Product#0" />
+            <element signature="class#PaperProduct#0" />
+            <element signature="class#GlassProduct#0" />
+            <element signature="class#PlasticProduct#0" />
+            <element signature="class#PaperBottle#0" />
+            <element signature="class#GlassBottle#0" />
+            <element signature="class#PlasticBottle#0" />
+            <element signature="class#PaperBox#0" />
+            <element signature="class#GlassBox#0" />
+            <element signature="class#PlasticBox#0" />
+            <element signature="class#FactoryBottle#0" />
+            <element signature="class#FactoryBox#0" />
+            <element signature="method#Storehouse#0;class#Storehouse#0" />
+            <element signature="method#isFull#0;class#Storehouse#0" />
+            <element signature="method#sellAll#0;class#Storehouse#0" />
+            <element signature="method#restore#0;class#Storehouse#0" />
+            <element signature="class#ConvectionOven#0" />
+            <element signature="method#ConvectionOven#0;class#ConvectionOven#0" />
+            <element signature="method#burn#0;class#ConvectionOven#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Purse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="method#takeOff#0;class#Purse#0" />
+            <element signature="class#Command#0" />
+            <element signature="class#Visitor#0" />
+            <element signature="class#Cleaning#0" />
+            <element signature="method#visitGlass#0;class#Cleaning#0" />
+            <element signature="method#visitOrganic#0;class#Cleaning#0" />
+            <element signature="method#visitPaper#0;class#Cleaning#0" />
+            <element signature="method#visitPolyesterPlastic#0;class#Cleaning#0" />
+            <element signature="method#visitEpoxyPlastic#0;class#Cleaning#0" />
+            <element signature="method#Unloading#0;class#Unloading#0" />
+            <element signature="method#unloading#0;class#Unloading#0" />
+            <element signature="method#loading#0;class#Unloading#0" />
+            <element signature="method#setObject#0;class#Unloading#0" />
+            <marker date="1543472081552" expanded="false" signature="155:644" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/LAB_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Memento#0" />
+            <element signature="method#Memento#0;class#Memento#0" />
+            <element signature="class#StateStorehouse#0" />
+            <element signature="class#StateNotFullStorehouse#0" />
+            <element signature="method#add#0;class#StateFullStorehouse#0" />
+            <element signature="method#sellAll#0;class#StateFullStorehouse#0" />
+            <element signature="class#StateExtraFullStorehouse#0" />
+            <element signature="method#add#0;class#StateExtraFullStorehouse#0" />
+            <element signature="method#sellAll#0;class#StateExtraFullStorehouse#0" />
+            <element signature="class#Observer#0" />
+            <element signature="class#Publisher#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/LAB_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="class#ObjectPool#0" />
+            <element signature="method#ObjectPool#0;class#ObjectPool#0" />
+            <element signature="method#acquireMaterial#0;class#ObjectPool#0" />
+            <element signature="method#getInstance#0;class#ObjectPool#0" />
+            <element signature="class#Builder#0" />
+            <element signature="class#ComunityBuilder#0" />
+            <element signature="class#LuxuryBuilder#0" />
+            <element signature="method#construct#0;class#Director#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LAB_3_PAT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
